@@ -4,6 +4,9 @@ h1{
 a{
     text-decoration:none;
 }
+img{
+    width: 300px;
+}
 /* ul{
     display:flex;
     list-style:none;
